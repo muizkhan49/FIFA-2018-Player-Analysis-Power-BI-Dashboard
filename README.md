@@ -23,6 +23,8 @@ The goal is to approach the dataset as a football manager or data analyst, answe
 
 
 
+
+
 📌 Key Insights
 
 🌍 Top 10 countries by player count: Countries producing the most players at FIFA 2018 level.
@@ -41,6 +43,8 @@ The goal is to approach the dataset as a football manager or data analyst, answe
 
 
 
+
+
 🛠️ Tools & Technologies Used
 
 Power BI – Data visualization and dashboard creation
@@ -50,6 +54,8 @@ Microsoft Excel – Data exploration and preprocessing
 DAX – Measures and calculated columns in Power BI
 
 Data Cleaning – Handling missing values, filtering, sorting
+
+
 
 
 💡 Skills Demonstrated
@@ -65,6 +71,8 @@ Performance vs Potential Mapping
 Real-world Sports Analytics
 
 
+
+
 🚀 How to Use
 
 Clone this repository
@@ -75,11 +83,13 @@ Connect to FIFA 2018.xlsx if prompted
 
 Explore insights using filters and visual dashboards
 
-Dasboard Visuals:
+Dashboard Visuals:
 
 ![FIFA_2018_page-0001](https://github.com/user-attachments/assets/80e11331-4a46-4129-9b3b-8abf60e9f436)
 
 ![FIFA_2018_page-0002](https://github.com/user-attachments/assets/f9fd34f9-1b0a-4caf-89de-a8339c832c8c)
+
+
 
 
 📫 Contact
